@@ -91,4 +91,4 @@ plt.show()
 ![output](/result.png)
 
 ## Result:
-Thus, The program is written with python and OpenCV to detect lines using Hough transform.
+Thus, the program is written with python and OpenCV to detect lines using Hough transform.
